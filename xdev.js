@@ -2290,7 +2290,7 @@ xdev.sendMessage(from,'Ni Boss Guaw',text,{quoted: hehe})
 }
 if (button == '⎙ GITHUB') {
 console.log('GITHUB')
-xdev.sendMessage(from, `*Stalkerin Aja Tuh*\n*https://github.com/kizakixd*`, text, {quoted: dev})
+xdev.sendMessage(from, `*Stalkerin Aja Tuh*\n*https://github.com/Azex229*`, text, {quoted: dev})
 }
 if (button == '🔍 IKLAN') {
 console.log('YOUTUBE')
